@@ -1,5 +1,5 @@
 # covid19-mask-detector
-**Program which will let you know whether it is safe or not to let a person be around**
+**Program which will let you know whether it is safe or not to let a person entering a place or being around, depending on the mask usage.**
 
 Nowadays, Covid-19 has affected our lives in such a way that we may be asked for not to enter or leave
 a place due to not taking the appropriate precaution regarding the virus.
